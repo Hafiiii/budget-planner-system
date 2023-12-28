@@ -1,0 +1,1 @@
+Icon-Path: resources/addImage.ico
